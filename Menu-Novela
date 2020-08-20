@@ -1,3 +1,20 @@
+
+<channels>
+</channels>
+<channel>
+<name>[COLOR white][B]Novelas Variadas[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/EGtbmCg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mxq19/Novelas/master/Novelas/menuvariada</externallink>
+<fanart></fanart>
+<info>Novelas</info>
+</channel>
+<channel>
+<name>[COLOR white][B]Novelas[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/EGtbmCg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mxq19/Novelas/master/Novelas-Menu</externallink>
+<fanart></fanart>
+<info>Novelas</info>
+</channel>
 <channels>
 </channels>
 <channel>

@@ -2,7 +2,7 @@
 <channels>
 </channels>
 <channel>
-<name>[COLOR white][B]Novelas Variadas[/COLOR][/B]</name>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Novelas Variadas[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/Mxq19/...kkk/master/NOVELAS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Novelas/master/menuvariada</externallink>
 <fanart></fanart>
@@ -11,14 +11,14 @@
 <channels>
 </channels>
 <channel>
-<name>[COLOR white][B]Novelas Do Youtube[/COLOR][/B]</name>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Novelas Do Youtube[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/Mxq19/...kkk/master/NOVELAS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Novelas/master/Novelas/Novela_Youtube</externallink>
 <fanart></fanart>
 <info>Novelas</info>
 </channel>
 <channel>
-<name>[COLOR white][B]Novelas[/COLOR][/B]</name>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Novelas[/COLOR][/B][/I]</name>
 <thumbnail>https://raw.githubusercontent.com/Mxq19/...kkk/master/NOVELAS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Novelas/master/Novelas-Menu</externallink>
 <fanart></fanart>
